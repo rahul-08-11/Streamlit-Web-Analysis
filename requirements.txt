@@ -1,0 +1,27 @@
+# requirements.txt
+undetected-chromedriver
+selenium
+webdriver_manager
+gspread
+oauth2client
+imapclient
+fuzzywuzzy
+pandas
+numpy
+tqdm
+azure-storage-blob
+gspread_dataframe
+pyvirtualdisplay
+streamlit
+streamlit_option_menu
+pandasql
+openai
+altair
+slack-sdk
+pyairtable
+bs4
+lxml
+psutil
+openpyxl
+pyodbc
+sqlalchemy
